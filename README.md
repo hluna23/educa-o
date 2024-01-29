@@ -16,7 +16,7 @@ Este proyecto es una aplicación web desarrollada en Django que permite a los us
 
 ## Instalación
 
-1. Clona este repositorio: `[git clone https://github.com/tu_usuario/tu_proyecto.git](https://github.com/hluna23/educa-o.git)`
+1. Clona este repositorio: `git clone https://github.com/tu_usuario/tu_proyecto.git](https://github.com/hluna23/educa-o.git)](https://github.com/hluna23/educa-o.git)`
 2. Navega al directorio del proyecto: `cd tu_proyecto`
 3. Crea y activa un entorno virtual: `python -m venv venv` y `source venv/bin/activate` (o `venv\Scripts\activate` en Windows).
 4. Instala las dependencias: `pip install -r requirements.txt`
